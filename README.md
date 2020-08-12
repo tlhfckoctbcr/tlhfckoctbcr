@@ -1,9 +1,8 @@
 
-### TLHFCKOCTBCR
-
 # Idol Thoughts
 ```
 God is good
+TLHFCKOCTBCR
 Chase the vision
 Live free or die a coward
 Local control engenders honesty
