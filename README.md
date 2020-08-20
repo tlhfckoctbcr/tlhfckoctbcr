@@ -15,11 +15,11 @@ CURRENTLY READING:
 - The Age of Agile
 
 COMPLETE:
-Atomic Habits
-No Easy Days
-Leadership Strategy and Tactics
-Smarter Better Faster
-The Complete Software Developer's Career Guide
+- Atomic Habits
+- No Easy Days
+- Leadership Strategy and Tactics
+- Smarter Better Faster
+- The Complete Software Developer's Career Guide
 ```
 
 # My Works
