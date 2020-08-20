@@ -1,5 +1,3 @@
-
-# Idol Thoughts
 ```
 God is good
 TLHFCKOCTBCR
