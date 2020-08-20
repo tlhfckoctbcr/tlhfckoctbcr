@@ -8,7 +8,7 @@ Be passionate about your disciplines
 This is more difficult than you think
 ```
 
-# August 2020 Reading List
+# 📚 August 2020 Reading List
 ```
 CURRENTLY READING:
 - The Phoenix Project
@@ -22,6 +22,6 @@ COMPLETE:
 - The Complete Software Developer's Career Guide
 ```
 
-# My Works
+# 🎨 My Works
 
 ![Portrait Study](https://i.imgur.com/kO2ADZf.jpg)
