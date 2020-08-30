@@ -11,10 +11,11 @@ This is more difficult than you think
 # 📚 August 2020 Reading List
 ```
 CURRENTLY READING:
-- The Phoenix Project
+- Linchpin
 - The Age of Agile
 
 COMPLETE:
+- The Phoenix Project
 - Atomic Habits
 - No Easy Days
 - Leadership Strategy and Tactics
