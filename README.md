@@ -8,13 +8,14 @@ Be passionate about your disciplines
 This is more difficult than you think
 ```
 
-# 📚 August 2020 Reading List
+# 📚 2020 Reading List
 ```
 CURRENTLY READING:
 - Linchpin
 - The Age of Agile
 
 COMPLETE:
+- 
 - The Phoenix Project
 - Atomic Habits
 - No Easy Days
