@@ -15,7 +15,6 @@ CURRENTLY READING:
 - The Age of Agile
 
 COMPLETE:
-- 
 - The Phoenix Project
 - Atomic Habits
 - No Easy Days
