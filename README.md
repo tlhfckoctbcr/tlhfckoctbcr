@@ -11,9 +11,10 @@ Be passionate about your disciplines
 ```
 CURRENTLY READING:
 - Linchpin
-- The Age of Agile
+- Clean Architecture
 
 COMPLETE:
+- The Age of Agile
 - The Phoenix Project
 - Atomic Habits
 - No Easy Days
