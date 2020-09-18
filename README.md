@@ -10,10 +10,10 @@ Be passionate about your disciplines
 # 📚 2020 Reading List
 ```
 CURRENTLY READING:
-- Linchpin
 - Clean Architecture
 
 COMPLETE:
+- Linchpin
 - The Age of Agile
 - The Phoenix Project
 - Atomic Habits
