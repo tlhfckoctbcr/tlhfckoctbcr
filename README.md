@@ -10,6 +10,8 @@ Be passionate about your disciplines
 # 📚 2020 Reading List
 ```
 CURRENTLY READING:
+- Clean Code (again)
+- Building Microservices
 - Clean Architecture
 
 COMPLETE:
