@@ -15,6 +15,7 @@ CURRENTLY READING:
 - Clean Architecture
 
 COMPLETE:
+- Christmas, 1914
 - Linchpin
 - The Age of Agile
 - The Phoenix Project
