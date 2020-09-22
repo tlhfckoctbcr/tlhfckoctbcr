@@ -11,6 +11,8 @@ Be passionate about your disciplines
 ```
 CURRENTLY READING:
 - Clean Code (again)
+
+UP NEXT:
 - Building Microservices
 - Clean Architecture
 
