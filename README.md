@@ -10,13 +10,13 @@ Be passionate about your disciplines
 # 📚 2020 Reading List
 ```
 CURRENTLY READING:
-- Clean Code (again)
+- Building Microservices
 
 UP NEXT:
-- Building Microservices
 - Clean Architecture
 
 COMPLETE:
+- Clean Code
 - Christmas, 1914
 - Linchpin
 - The Age of Agile
@@ -27,7 +27,3 @@ COMPLETE:
 - Smarter Better Faster
 - The Complete Software Developer's Career Guide
 ```
-
-# 🎨 My Works
-
-![Portrait Study](https://i.imgur.com/kO2ADZf.jpg)
