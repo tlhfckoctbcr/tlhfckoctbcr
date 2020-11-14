@@ -1,5 +1,11 @@
 # TLHFCKOCTBCR
 ```
+Whose idea was it, America?
+Who dared -
+Who would dare to think of it?
+```
+
+```
 God is good
 Chase the vision
 Live free or die a coward
