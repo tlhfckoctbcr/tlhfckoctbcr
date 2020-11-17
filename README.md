@@ -1,5 +1,10 @@
 # TLHFCKOCTBCR
 ```
+There is no greater oppressor than the enemy of Truth; 
+  those intent on suppression of Truth are tyrants.
+```
+
+```
 Whose idea was it, America?
 Who dared -
 Who would dare to think of it?
