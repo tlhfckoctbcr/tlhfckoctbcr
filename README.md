@@ -11,7 +11,6 @@ There is no greater oppressor than the enemy of Truth;
 
 ```
 Whose idea was it, America?
-Who dared -
 Who would dare to think of it?
 ```
 
