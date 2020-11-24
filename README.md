@@ -1,5 +1,10 @@
 # TLHFCKOCTBCR
 ```
+We are all sinners, never forget that.
+We are all in need of humility and grace.
+```
+
+```
 There is no greater oppressor than the enemy of Truth; 
   those intent on suppression of Truth are tyrants.
 ```
@@ -18,23 +23,6 @@ Local control engenders honesty
 Be passionate about your disciplines
 ```
 
-# 📚 2020 Reading List
 ```
-CURRENTLY READING:
-- Building Microservices
-
-UP NEXT:
-- Clean Architecture
-
-COMPLETE:
-- Clean Code
-- Christmas, 1914
-- Linchpin
-- The Age of Agile
-- The Phoenix Project
-- Atomic Habits
-- No Easy Days
-- Leadership Strategy and Tactics
-- Smarter Better Faster
-- The Complete Software Developer's Career Guide
+Do not rest on your laurels, or on anyone else's for that matter.
 ```
