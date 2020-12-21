@@ -1,5 +1,9 @@
 # TLHFCKOCTBCR
 ```
+do no harm
+but take no shit
+```
+```
 We are all sinners, never forget that.
 We are all in need of humility and grace.
 ```
