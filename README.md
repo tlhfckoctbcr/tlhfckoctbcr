@@ -1,7 +1,12 @@
 # TLHFCKOCTBCR
 ```
+God is good
 do no harm
 but take no shit
+chase the vision
+live free or die a coward
+local control engenders honesty
+be passionate about your disciplines
 ```
 ```
 We are all sinners, never forget that.
@@ -16,14 +21,6 @@ There is no greater oppressor than the enemy of Truth;
 ```
 Whose idea was it, America?
 Who would dare to think of it?
-```
-
-```
-God is good
-Chase the vision
-Live free or die a coward
-Local control engenders honesty
-Be passionate about your disciplines
 ```
 
 ```
