@@ -4,6 +4,7 @@ God is good
 do no harm
 but take no shit
 chase the vision
+love your family
 live free or die a coward
 local control engenders honesty
 be passionate about your disciplines
