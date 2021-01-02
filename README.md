@@ -8,6 +8,7 @@ love your family
 live free or die a coward
 local control engenders honesty
 be passionate about your disciplines
+if there's a fork in the road, take it now
 ```
 ```
 We are all sinners, never forget that.
