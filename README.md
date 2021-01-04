@@ -28,3 +28,6 @@ Who would dare to think of it?
 ```
 Do not rest on your laurels, or on anyone else's for that matter.
 ```
+```
+He thrusted me into the belly of the Beast, to struggle, to overcome, and to stand triumphant in His glory.
+```
