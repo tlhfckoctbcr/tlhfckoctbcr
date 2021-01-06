@@ -11,25 +11,6 @@ be passionate about your disciplines
 if there's a fork in the road, take it now
 ```
 ```
-Families perpetuate their own myths,
-     cycled through time and an unwavering length of infants;
-follow the same road, child,
-     and don't hesitate to swear
-     to God, country, family.
-
-Countries perpetuate their own logic,
-     projected in color TVs and neon lights;
-perfidy is unpatriotic, child,
-     don't ever lose the faith
-     in God, country, family.
-
-God perpetuates sophistry,
-     obfuscating virgins and listening to hymns;
-ascend ever to the Father, child,
-     and don't stop to think
-     against God, country, family.
-```
-```
 We are all sinners, never forget that.
 We are all in need of humility and grace.
 ```
