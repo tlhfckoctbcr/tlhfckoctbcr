@@ -34,3 +34,7 @@ to struggle,
 to overcome, 
 and to stand triumphant in His glory.
 ```
+```
+Hell and destruction are never full; so the eyes of man are never satisfied.
+Proverbs 27:20
+```
