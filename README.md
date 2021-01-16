@@ -1,4 +1,12 @@
 # TLHFCKOCTBCR
+### 2021 Goals
++ Bible
++ Read/listen: 2(two) books a month
++ Building games to learn: Strategic Conquest
++ Weight training: cont. PP/4x 
++ Illustration: 2021 Sketchpad
++ 500+ mi hike/run
+
 ```
 God is good
 do no harm
