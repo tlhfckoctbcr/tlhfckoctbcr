@@ -7,6 +7,7 @@
 + Weight training: cont. PP/4x 
 + Illustration: 2021 Sketchpad
 + 500+ mi hike/run
++ 1st trail marked/cleared
 ```
 ```
 God is good
