@@ -11,9 +11,9 @@
 
 ```
 God is good
-Live free
 do no harm
 but take no shit
+Live free or die
 chase the vision
 love your family
 local control engenders honesty
@@ -27,10 +27,6 @@ We are all in need of humility and grace.
 ```
 
 ```
-Do not rest on your laurels, or on anyone else's for that matter.
-```
-
-```
-Hell and destruction are never full; so the eyes of man are never satisfied.
-Proverbs 27:20
+Do not rest on your laurels,
+or on anyone else's for that matter.
 ```
