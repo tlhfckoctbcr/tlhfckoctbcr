@@ -1,8 +1,9 @@
 # TLHFCKOCTBCR
 ### 2021 Goals
 ```
-+ Read/listen: 2(two) books a month
-+ Building games to learn: Strategic Conquest/Advance Wars?
++ Read/listen: two books a month
++ Building to learn: Adv. React Spring
++ Building to learn: Strategic Conquest/Advance Wars?
 + Weight training: cont. PP/4x 
 + Illustration: 2021 Sketchpad
 + 500+ mi hike/run
