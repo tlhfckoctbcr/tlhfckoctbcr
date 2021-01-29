@@ -1,7 +1,5 @@
 # TLHFCKOCTBCR
 
-### My Illustrations
-
 ![Sargent Study](https://i.imgur.com/oGgDMtV.jpg)
 
 ### 2021 Goals
