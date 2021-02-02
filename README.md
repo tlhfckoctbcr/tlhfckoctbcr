@@ -5,7 +5,7 @@
 ### 2021 Goals
 ```
 + Read/listen: two books a month
-+ Building to learn: React Spring, Adv NextJS, TailwindCSS
++ Building to learn: React Spring GUI, Adv NextJS, TailwindCSS
 + Building to learn: Strategic Conquest/Advance Wars?
 + Building to learn: tlhfckoctbcr blog
 + Weight training: cont. PP/4x 
