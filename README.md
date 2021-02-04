@@ -5,11 +5,10 @@
 ### 2021 Goals
 ```
 + Read/listen: two books a month
-+ Building to learn: React Spring GUI, Adv NextJS, TailwindCSS
-+ Building to learn: Strategic Conquest/Advance Wars?
++ Building to learn: Optimal NextJS, TailwindCSS
 + Building to learn: tlhfckoctbcr blog
 + Weight training: cont. PP/4x 
-+ Illustration: 2021 Sketchpad
++ Illustration: 2021 sketchpad + finished pieces
 + 500+ mi hike/run total
 + 1st trail marked/cleared
 ```
