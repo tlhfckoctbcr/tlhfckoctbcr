@@ -15,7 +15,7 @@
 
 ### Toolkit
 <i>tools I'm passionate about</i>
-
+```
 lang:
 - https://www.typescriptlang.org/
 
@@ -54,9 +54,7 @@ misc modules:
 - https://www.npmjs.com/package/lodash
 - https://www.npmjs.com/package/formik
 - https://www.npmjs.com/package/yup
-- 
-
-
+```
 
 ```
 God is good
