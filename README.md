@@ -56,6 +56,7 @@ misc modules:
 - https://www.npmjs.com/package/yup
 ```
 
+### Principles/Beliefs
 ```
 God is good
 do no harm
