@@ -59,14 +59,13 @@ misc modules:
 ### Principles/Beliefs
 ```
 God is good
-do no harm
-but take no shit
+tlhfckoctbcr
 live free or die
 chase the vision
 love your family
+do no harm but take no shit
 local control engenders honesty
 be passionate about your disciplines
 if there's a fork in the road, take it now
 we are all in need of humility and grace
-tlhfckoctbcr
 ```
