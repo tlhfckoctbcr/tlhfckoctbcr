@@ -18,7 +18,6 @@
 ```
 
 ### Toolkit
-<i>tools I'm passionate about</i>
 ```
 lang:
 - https://www.typescriptlang.org/
