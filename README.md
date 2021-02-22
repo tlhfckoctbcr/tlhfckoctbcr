@@ -2,15 +2,19 @@
 
 ![Sargent Study](https://i.imgur.com/oGgDMtV.jpg)
 
-### 2021 Goals
+### 2021 Goals to Achieve
 ```
 + Read/listen: two books a month
-+ Building to learn: Optimal NextJS, TailwindCSS
-+ Building to learn: tlhfckoctbcr blog
-+ Weight training: cont. PP/4x 
++ Weight training: 1/2/3/4
 + Illustration: 2021 sketchpad + finished pieces
 + 500+ mi hike/run total
 + 1st trail marked/cleared
+```
+
+### 2021 Achievements
+```
++ Building to learn: tlhfckoctbcr (https://tlhfckoctbcr.com/)
++ Building to learn: TailwindCSS/NextJS optimization
 ```
 
 ### Toolkit
