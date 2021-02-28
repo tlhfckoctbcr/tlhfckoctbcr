@@ -4,7 +4,7 @@
 
 ### 2021 Goals to Achieve
 ```
-+ Read/listen: two books a month
++ Read/listen: two books a month (currently reading <u>Stonehouse's Anatomy</u>)
 + Weight training: 1/2/3/4
 + Illustration: 2021 sketchpad + finished pieces
 + 500+ mi hike/run total
