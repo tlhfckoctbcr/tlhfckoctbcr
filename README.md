@@ -5,7 +5,6 @@
 ### 2021 Goals to Achieve
 ```
 + Read/listen: two books a month (currently reading Stonehouse's Anatomy)
-+ Weight training: 1/2/3/4
 + Illustration: 2021 sketchpad + finished pieces
 + 500+ mi hike/run total
 + 1st trail marked/cleared
@@ -15,6 +14,7 @@
 ```
 + Building to learn: tlhfckoctbcr (https://tlhfckoctbcr.com/)
 + Building to learn: TailwindCSS/NextJS optimization
++ Created KPS logo (finally)
 ```
 
 ### Toolkit
@@ -66,7 +66,8 @@ tlhfckoctbcr
 live free or die
 chase the vision
 love your family
-do no harm but take no shit
+sh*t or get off the pot
+do no harm but take no sh*t
 local control engenders honesty
 be passionate about your disciplines
 if there's a fork in the road, take it now
