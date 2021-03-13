@@ -31,6 +31,7 @@ ui:
 - https://cssinjs.org/
 - https://blueprintjs.com/
 - https://material.io/
+- https://tailwindcss.com/
 
 server:
 - https://nodejs.org/
