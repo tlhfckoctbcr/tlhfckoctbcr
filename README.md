@@ -1,5 +1,3 @@
-# https://tlhfckoctbcr.com/
-
 ![Sargent Study](https://i.imgur.com/oGgDMtV.jpg)
 
 ### 2021 Goals to Achieve
@@ -12,6 +10,7 @@
 
 ### 2021 Achievements
 ```
++ Building to learn: KPS Website (https://kingpoststudio.com/)
 + Building to learn: tlhfckoctbcr (https://tlhfckoctbcr.com/)
 + Building to learn: TailwindCSS/NextJS optimization
 + Created KPS logo (finally)
