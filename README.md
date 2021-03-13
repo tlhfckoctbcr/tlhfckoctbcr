@@ -66,6 +66,7 @@ tlhfckoctbcr
 live free or die
 chase the vision
 love your family
+the Word became flesh
 sh*t or get off the pot
 do no harm but take no sh*t
 local control engenders honesty
