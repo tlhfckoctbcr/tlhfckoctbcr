@@ -5,6 +5,7 @@
 + Building KPS Website (https://kingpoststudio.com/)
 + Reading Live Not By Lies
 + Reading Stonehouse's Anatomy
++ Reading Refactoring
 ```
 
 ### 2021 Achievements
