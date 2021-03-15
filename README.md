@@ -1,18 +1,16 @@
 ![Sargent Study](https://i.imgur.com/oGgDMtV.jpg)
 
-### 2021 Goals to Achieve
+### 2021 In Progress
 ```
-+ Read/listen: two books a month (currently reading Stonehouse's Anatomy)
-+ Illustration: 2021 sketchpad + finished pieces
-+ 500+ mi hike/run total
-+ 1st trail marked/cleared
++ Building KPS Website (https://kingpoststudio.com/)
++ Reading Live Not By Lies
++ Reading Stonehouse's Anatomy
 ```
 
 ### 2021 Achievements
 ```
-+ Building to learn: KPS Website (https://kingpoststudio.com/)
-+ Building to learn: tlhfckoctbcr (https://tlhfckoctbcr.com/)
-+ Building to learn: TailwindCSS/NextJS optimization
++ Built garden boxes
++ Built tlhfckoctbcr (https://tlhfckoctbcr.com/)
 + Created KPS logo (finally)
 ```
 
