@@ -1,5 +1,7 @@
+<a href="https://kingpoststudio.com/" target="_blank"><img src="https://kingpoststudio.com/images/kps-logo.png" alt="KPS" width="120" /></a>
+<br />
 <img src="https://kingpoststudio.com/images/yosemite-day.png" alt="Yosemite" width="400"/>
-<a href="https://kingpoststudio.com/" target="_blank"><img src="https://kingpoststudio.com/images/kps-logo.png" alt="KPS" width="200" /></a>
+
 
 ### 2021 In Progress
 ```
