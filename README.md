@@ -17,7 +17,7 @@
 
 ### Ideas
 ```
-+ Worker to collect YT playlist
++ YT playlist collection
 + Multi-turbine dam
 + Terraces
 ```
