@@ -1,4 +1,4 @@
-![Sargent Study](https://i.imgur.com/oGgDMtV.jpg)
+![Sargent Study](https://kingpoststudio.com/images/yosemite-day.png)
 
 ### 2021 In Progress
 ```
