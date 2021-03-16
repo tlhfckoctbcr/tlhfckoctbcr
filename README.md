@@ -76,8 +76,7 @@ live free or die
 chase the vision
 love your family
 the Word became flesh
-sh*t or get off the pot
-do no harm but take no sh*t
+finish what you start
 local control engenders honesty
 be passionate about your disciplines
 if there's a fork in the road, take it now
