@@ -15,6 +15,13 @@
 + Created KPS logo (finally)
 ```
 
+### Ideas
+```
++ Worker to collect YT playlist
++ Multi-turbine dam
++ Terraces
+```
+
 ### Toolkit
 ```
 lang:
