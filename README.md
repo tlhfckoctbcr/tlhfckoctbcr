@@ -9,6 +9,7 @@
 + Reading Live Not By Lies
 + Reading Stonehouse's Anatomy
 + Reading Refactoring
++ Learning Adobe Animate
 ```
 
 ### 2021 Achievements
