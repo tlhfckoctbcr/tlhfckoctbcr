@@ -5,11 +5,9 @@
 
 ### 2021 In Progress
 ```
-+ Building KPS Website (https://kingpoststudio.com/)
 + Reading Live Not By Lies
 + Reading Stonehouse's Anatomy
 + Reading Refactoring
-+ Learning Adobe Animate
 ```
 
 ### 2021 Achievements
@@ -17,6 +15,8 @@
 + Built garden boxes
 + Built tlhfckoctbcr (https://tlhfckoctbcr.com/)
 + Created KPS logo (finally)
++ Built simple KPS Website (https://kingpoststudio.com/)
++ Learned Adobe Animate (nifty tool)
 ```
 
 ### Ideas
