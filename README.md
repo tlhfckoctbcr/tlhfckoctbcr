@@ -4,7 +4,6 @@
 ### 2021 In Progress
 ```
 + Cont. work on KPS
-+ Reading Live Not By Lies
 + Reading Stonehouse's Anatomy
 + Reading Refactoring
 ```
