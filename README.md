@@ -1,28 +1,11 @@
 <a href="https://kingpoststudio.com/" target="_blank"><img src="https://kingpoststudio.com/images/logo-alt.png" alt="KPS" width="250" /></a>
 
-
 ### 2021 In Progress
-```
-+ Cont. work on KPS
-+ Reading Stonehouse's Anatomy
-+ Reading Refactoring
-```
-
-### 2021 Achievements
 ```
 + Built wall
 + Built garden boxes
 + Built tlhfckoctbcr (https://tlhfckoctbcr.com/)
-+ Created KPS logo (finally)
 + Built simple KPS Website (https://kingpoststudio.com/)
-+ Learned Adobe Animate (nifty tool)
-```
-
-### Ideas
-```
-+ YT playlist collection
-+ Multi-turbine dam
-+ Terraces
 ```
 
 ### Toolkit
@@ -66,20 +49,4 @@ misc modules:
 - https://www.npmjs.com/package/lodash
 - https://www.npmjs.com/package/formik
 - https://www.npmjs.com/package/yup
-```
-
-### Principles/Beliefs
-```
-God is good
-tlhfckoctbcr
-live free or die
-chase the vision
-love your family
-the Word became flesh
-finish what you start
-local control engenders honesty
-be passionate about your disciplines
-we are all in need of humility and grace
-if there's a fork in the road, take it now
-good habits result from resisting temptation
 ```
