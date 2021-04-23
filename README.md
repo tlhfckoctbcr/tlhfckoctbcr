@@ -1,4 +1,4 @@
-<a href="https://kingpoststudio.com/" target="_blank"><img src="https://kingpoststudio.com/images/logo-alt.png" alt="KPS" width="250" /></a>
+<a href="https://kingpoststudio.com/" target="_blank"><img src="https://kingpoststudio.com/images/logo.png" alt="KPS" width="250" /></a>
 
 ### 2021 In Progress
 ```
