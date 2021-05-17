@@ -19,10 +19,10 @@ client:
 - https://angular.io/
 
 ui:
+- https://tailwindcss.com/
 - https://cssinjs.org/
 - https://blueprintjs.com/
 - https://material.io/
-- https://tailwindcss.com/
 
 server:
 - https://nodejs.org/
