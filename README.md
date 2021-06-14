@@ -2,8 +2,9 @@
 
 ### 2021 In Progress
 ```
-+ Built wall
-+ Built garden boxes
++ Wall
++ Garden boxes
++ Repaired tiller, planted rows
 + Built tlhfckoctbcr (https://tlhfckoctbcr.com/)
 + Built simple KPS Website (https://kingpoststudio.com/)
 ```
