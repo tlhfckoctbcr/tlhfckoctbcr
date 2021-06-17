@@ -1,4 +1,6 @@
-<a href="https://kingpoststudio.com/" target="_blank"><img src="https://kingpoststudio.com/images/yosemite-day.png" alt="KPS" width="250" /></a>
+<a href="https://kingpoststudio.com/" target="_blank" style="background: #b4ff00b0;">
+  <img src="https://kingpoststudio.com/images/yosemite-day.png" alt="KPS" width="250" />
+</a>
 
 ### 2021 In Progress
 ```
