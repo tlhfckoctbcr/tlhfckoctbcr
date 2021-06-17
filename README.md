@@ -1,10 +1,4 @@
-<style>
-  .img-anchor {
-    background: #b4ff00b0;
-  }
-</style>
-
-<a href="https://kingpoststudio.com/" target="_blank" class="img-anchor">
+<a href="https://kingpoststudio.com/" target="_blank">
   <img src="https://kingpoststudio.com/images/yosemite-day.png" alt="KPS" width="250" />
 </a>
 
