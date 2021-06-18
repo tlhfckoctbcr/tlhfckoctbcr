@@ -2,15 +2,6 @@
   <img src="https://kingpoststudio.com/images/yosemite-day.png" alt="KPS" width="250" />
 </a>
 
-### 2021 In Progress
-```
-+ Wall
-+ Garden boxes
-+ Repaired tiller, planted rows
-+ Built tlhfckoctbcr (https://tlhfckoctbcr.com/)
-+ Built simple KPS Website (https://kingpoststudio.com/)
-```
-
 ### Toolkit
 ```
 lang:
