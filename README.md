@@ -35,6 +35,7 @@ bundlers:
 
 deployment:
 - https://vercel.com/
+- https://hubspot.com/
 
 misc modules:
 - https://www.npmjs.com/package/ts-node
