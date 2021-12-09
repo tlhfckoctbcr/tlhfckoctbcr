@@ -6,6 +6,7 @@
 ```
 cms:
 - https://hubspot.com/
+- https://strapi.io/
 
 lang:
 - https://www.typescriptlang.org/
