@@ -16,13 +16,10 @@ lang:
 client:
 - https://nextjs.org/
 - https://reactjs.org/
-- https://angular.io/
 
 ui:
 - https://tailwindcss.com/
-- https://cssinjs.org/
 - https://blueprintjs.com/
-- https://material.io/
 
 server:
 - https://nodejs.org/
@@ -30,7 +27,6 @@ server:
 - https://deno.land/
 
 db:
-- https://www.mongodb.com/
 - https://www.mysql.com/
 
 test:
