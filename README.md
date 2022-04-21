@@ -11,9 +11,12 @@ cms:
 - https://strapi.io/
 
 lang:
+- https://www.javascript.com/
 - https://www.typescriptlang.org/
 
 client:
+- https://jamstack.org/
+- https://svelte.dev/
 - https://nextjs.org/
 - https://reactjs.org/
 
@@ -23,18 +26,19 @@ ui:
 
 server:
 - https://nodejs.org/
-- https://expressjs.com/
 - https://deno.land/
 
 db:
 - https://www.mysql.com/
+- https://www.mongodb.com/
 
 test:
 - https://jestjs.io/
 
-bundlers:
-- https://v2.parceljs.org/
+tools:
+- https://vitejs.dev/
 - https://webpack.js.org/
+- https://v2.parceljs.org/
 
 deployment:
 - https://vercel.com/
