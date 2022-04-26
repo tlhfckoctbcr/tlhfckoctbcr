@@ -6,6 +6,17 @@ Christ is King
 
 
 ```
+building:
+- Hubspot themes/modules/widgets
+- NextJS dashboard/reporting/CRUD app
+- Svelte websites
+- TypeScript microservices
+
+learning:
+- Remix
+- Advanced website architecture
+- How to be a dad
+
 cms:
 - https://hubspot.com/
 - https://strapi.io/
