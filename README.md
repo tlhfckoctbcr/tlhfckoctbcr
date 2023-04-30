@@ -1,4 +1,3 @@
 `✝`
 <br />
-<br />
-<a href="https://kingpoststudio.com/">King Post Studio</a>
+<a href="https://kingpoststudio.com/">KING POST STUDIO</a>
