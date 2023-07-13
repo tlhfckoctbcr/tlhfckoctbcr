@@ -1,1 +1,15 @@
 `✝`
+```
+trustworthy
+loyal
+helpful
+friendly
+courteous
+kind
+obedient
+cheerful
+thrifty
+brave
+clean
+reverent
+```
